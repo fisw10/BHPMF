@@ -3,10 +3,10 @@ Version: 1.1
 Date: 2017-06-28
 Title: Uncertainty Quantified Matrix Completion using Bayesian
         Hierarchical Matrix Factorization
-Author: Farideh Fazayeli, Arindam Banerjee, Jens Kattge, Franziska Schrodt, Peter Reich
+Author: Farideh Fazayeli, Arindam Banerjee, Franziska Schrodt, Jens Kattge, Peter Reich
 Maintainer: Farideh Fazayeli <farideh@cs.umn.edu>
 Depends: R (>= 3.3.0), Matrix
-Description: Fills the gaps of a matrix incorporating a hierarchical side
+Description: Fills the gaps of a matrix incorporating hierarchical side
     information while providing uncertainty quantification. We would like to gratefully acknowledge support from NSF IIS 1563950.
 License: GPL (>= 2)
 NeedsCompilation: yes
